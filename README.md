@@ -1,5 +1,32 @@
-<script type="text/javascript"
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
+---
+layout: default
+---
 
-# Power-Electronics-Electric-Drives-BMS-Project-Portfolios
+# Power Electronics & Control Portfolio
+
+Welcome to my technical portfolio focused on:
+
+- Bidirectional DC-DC Converter  
+- PMSM Field Oriented Control  
+- EKF Based Battery Management System  
+
+---
+
+## Projects
+
+### 🔋 Bidirectional DC-DC Converter
+High-performance bidirectional converter for battery control.
+
+[View Project →](bidirectional-dcdc.html)
+
+---
+
+### ⚙️ PMSM Field Oriented Control
+dq-current control and SVPWM implementation.
+
+[View Project →](pmsm-foc.html)
+
+---
+
+### 🔬 EKF Based BMS
+State-of-Charge estimation using Extended Kalman Filter.
