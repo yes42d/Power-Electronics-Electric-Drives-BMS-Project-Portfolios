@@ -15,19 +15,22 @@ Welcome to my technical portfolio focused on:
 
 ## Projects
 
-### 🔋 Bidirectional DC-DC Converter
-High-performance bidirectional converter for battery control.
-
-[View Project →](bidirectional-dcdc.html)
+## Projects
 
 ---
 
-### ⚙️ PMSM Field Oriented Control
-dq-current control and SVPWM implementation.
+### 🔋 [Bidirectional DC-DC Converter](bidirectional-dcdc.html)
 
-[View Project →](pmsm-foc.html)
+High-performance bidirectional converter for battery charge/discharge control.
 
 ---
 
-### 🔬 EKF Based BMS
+### ⚙️ [PMSM Field Oriented Control](pmsm-foc.html)
+
+dq-current control and SVPWM implementation for PMSM drives.
+
+---
+
+### 🔬 [EKF Based Battery Management System](ekf-bms.html)
+
 State-of-Charge estimation using Extended Kalman Filter.
