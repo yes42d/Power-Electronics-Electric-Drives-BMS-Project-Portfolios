@@ -1,0 +1,9 @@
+theme: minima
+title: Power Electronics & Control Portfolio
+description: Bidirectional DC-DC | PMSM FOC | EKF Based BMS
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  math_engine: mathjax
