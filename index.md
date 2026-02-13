@@ -12,7 +12,6 @@ Welcome to my technical portfolio focused on:
 
 ---
 
-## Projects
 
 ## Projects
 
