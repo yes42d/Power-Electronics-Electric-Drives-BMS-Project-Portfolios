@@ -3,7 +3,6 @@ layout: default
 title: Home
 ---
 
-# Power Electronics & Control Portfolio
 
 Welcome to my technical portfolio focused on:
 
